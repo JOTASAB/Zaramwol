@@ -39,12 +39,6 @@ src="https://tenor.com/view/school-live-cute-hello-anime-girl-yuki-takeya-gif-14
 
 </p>
 
-```
-If Repl.it not working Try Termux for Qr scanning.
-    Just Copy the Link Below in Termux
-
-     bash <(curl -L https://t.ly/tHxh)
-```
 ## F.A.Q
 Answer a few frequently asked questions;
 ### Can you read my messages?
@@ -54,7 +48,7 @@ This project is open source so all the codes are clear. Neither less nor more; y
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
 ### Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/fusuf) .
+**Of course not.** It will never happen. But you can donate to us. You can reach me via [Telegram](https://t.me/Jotasab) .
 
 ### ⚠️ Warning! 
 ```
